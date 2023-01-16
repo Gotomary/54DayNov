@@ -5132,7 +5132,7 @@ var defaultOptions = {
     kind: OptionKind.VIEWER
   },
   defaultUrl: {
-    value: 'How to pray the rosary.pdf',
+    value: '54 Day Novena.pdf',
     kind: OptionKind.VIEWER
   },
   defaultZoomValue: {
